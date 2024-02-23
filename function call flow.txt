@@ -1,0 +1,56 @@
+def function_name(*args,**kwargs):
+  print(type(args)) # tuple
+  print(type(kwargs)) # dict
+
+function call flow:
+
+1. Evaluate function being called
+2. Evaluate arguments in call
+3. Call the function with args evaluated
+4. Return value
+
+an import statement causes all the code in another file to be executed and make its object bindings available for reference in the rest of the code.
+import something
+The above statement cause python to look for 'something.py' file locally first then in PATH env var. So, don't name file as some_std_lib.py like 'random.py'.
+Programs with syntax errors don’t execute even one line. None of the program successfully executes because of the presence of just one syntax error.
+test case help to identify a semantic error.
+ 
+running average:
+
+    avg -= avg / N;
+    avg += new_sample / N
+
+2 4 ===========>3
+
+2 4 9 ==========>5
+implies:
+(2+4+9)/3 = 5
+split as:
+(2+4)/3 + 9/3 = 5
+write as previous average:
+((2+4)/2)*(2/3) + 9/3 = 5
+
+prev_avg * (N-1)/N + cur_val/N = cur_avg
+|-----------------|
+prev_avg * (1-1/N) + cur_val/N = cur_avg
+|-----------------|
+
+Hence,
+prev_avg - prev_avg/N + cur_val/N = cur_avg
+|--------------------|
+
+Draw sequence diagram to identify aliases or whenever in doubt.
+
+print('{key:.2f} here key is keyword and .2f is percision, {idx:f} index by default or {} for default indexing as iterable'.format(iterable args))
+    %u unsigned decimal integer
+    %o octal integer
+    f – floating-point display
+    b – binary number
+    o – octal number
+    %x – hexadecimal with lowercase letters after 9
+    %X– hexadecimal with uppercase letters after 9
+    e – exponent notation
+also see: .format_map() Method
+
+
+

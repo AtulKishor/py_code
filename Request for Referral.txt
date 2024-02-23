@@ -1,0 +1,21 @@
+SUBJECT : Request for Referral as a Graduate 2023 - Atul Kishor
+
+Hi Sir/Ma'am,
+I hope this message finds you well. I have completed my Bachelor's Degree in Conputer Science Engineering from Bangalore Institute of Technology, Bangalore in 2023. I am writing this to request you for providing a referral for any open role in your Organization.
+
+I have previously worked as an Oracle Integration Intern at Zebra Technologies (Bangalore) for 6 months. I possess a strong passion for problem-solving and have proficiency in Python programming. I also have good knowledge on Computer Science Fundamentals.
+
+During my tenure, I learnt the basic of PL/SQL, SOAP and REST, Oracle Integration Cloud. I also built integration for SOAP and REST payloads, handling exceptions, calling REST APIs to manipulate connections and integrating with applications. I also helped the team in monitoring integration on a live project.
+===================
+I also have proficiency in Data Sturcture and Algorithms, practised 600+ problems on platforms like GeekforGeeks and LeetCode. Explored various tech stacks and developed projects like Amazon2.0 , Memorica , Cova19_Informer, My Notes during my college time using Reactjs ,Nodejs, MongoDB, Express and SQL as the technologies.
+====================
+Here I am attaching my Resume link and mail id below -
+Resume link: https://drive.google.com/file/d/1RaANg_C9zhuWI_-dqnC78GusCr_ovZC2/view?usp=sharing
+mail id : duttaarindam902@gmail.com
+
+Skillset : [ Angular, Typescript, UX, ReactJs, JavaScript, Springboot, NodeJs, C++, Problem Solving, MongoDb, SQL ]
+
+If you think of me as an eligible candidate, please do refer me for a job position in your company. It will be a great opportunity to work in your Organization.
+
+Thank You
+Atul Kishor
